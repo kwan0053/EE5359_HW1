@@ -1,1 +1,3 @@
-# Code & Script for EE5359_HW1
+# Code & Script for EE5359 HW1
+### Code-modOnly contains only the altered code (q1a.in) and created scripts (q1b.py & q2_aleae.sh). 
+### Code-full contains all necessary files to run the code. 
